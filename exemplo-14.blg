@@ -1,0 +1,68 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: exemplo-14.aux
+Reallocating 'name_of_file' (item size: 1) to 13 items.
+Reallocating 'name_of_file' (item size: 1) to 5 items.
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+The style file: abnt-alf.bst
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Database file #1: abnt-options.bib
+Database file #2: base.bib
+Reallocating 'wiz_functions' (item size: 4) to 9000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'glb_str_end' (item size: 4) to 20 items.
+Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
+Reallocating 'global_strs' (item size: 1) to 4000000 items.
++---------------------------------------------------------+
+| Estilo bibliográfico abnt-alf.bst versão 1.45.2.1           |
+| Em caso de dúvidas ou problemas com este estilo procure |
+| http://abntex.codigolivre.org.br                        |
++---------------------------------------------------------+
+You've used 5 entries,
+            6480 wiz_defined-function locations,
+            1172 strings with 9492 characters,
+and the built_in function-call counts, 2985 in all, are:
+= -- 312
+> -- 73
+< -- 1
++ -- 78
+- -- 22
+* -- 175
+:= -- 432
+add.period$ -- 6
+call.type$ -- 6
+change.case$ -- 33
+chr.to.int$ -- 7
+cite$ -- 2
+duplicate$ -- 88
+empty$ -- 253
+format.name$ -- 112
+if$ -- 726
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 71
+newline$ -- 17
+num.names$ -- 10
+pop$ -- 88
+preamble$ -- 1
+purify$ -- 17
+quote$ -- 0
+skip$ -- 274
+stack$ -- 1
+substring$ -- 94
+swap$ -- 33
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 14
+width$ -- 0
+write$ -- 36
