@@ -22,6 +22,18 @@ month={March},}eenchimento da ficha de leitura.....},
   keywords  = {instruction sets, microprocessor chips, reduced instruction set computing, RISC-V instruction set, Instruction sets, Microarchitecture, Pipelines},
 }
 
+@Article{8643783,
+  author   = {P. {Chiu} and C. {Celio} and K. {Asanović} and B. {Nikolić} and D. {Patterson}},
+  title    = {Cache Resiliency Techniques for a Low-Voltage RISC-V Out-of-Order Processor in 28 nm CMOS},
+  journal  = {IEEE Solid-State Circuits Letters},
+  year     = {2019},
+  pages    = {1-1},
+  issn     = {2573-9603},
+  doi      = {10.1109/LSSC.2019.2900148},
+  file     = {:C\:/Users/elvim/Downloads/25-02-2019BRUNO OTAVIO RAMOS.pdf:PDF},
+  keywords = {Circuit faults;Random access memory;Maintenance engineering;Resilience;Recycling;Metadata;Low voltage;RISC-V;open-source processor;out-of-order processor;cache resiliency.},
+}
+
 @Book{Hennessy2012,
   author    = {Hennessy, John L. and Patterson, David A.},
   publisher = {Morgan Kaufmann},
@@ -130,18 +142,6 @@ month={March},}eenchimento da ficha de leitura.....},
   location  = {Oak Ridge, Tennessee, USA},
   numpages  = {4},
   url       = {https://doi.org/10.1145/1852666.1852695},
-}
-
-@Article{Chiu2019,
-  author   = {P. {Chiu} and C. {Celio} and K. {Asanović} and B. {Nikolić} and D. {Patterson}},
-  journal  = {IEEE Solid-State Circuits Letters},
-  title    = {Cache Resiliency Techniques for a Low-Voltage RISC-V Out-of-Order Processor in 28 nm CMOS},
-  year     = {2019},
-  issn     = {2573-9603},
-  pages    = {1-1},
-  doi      = {10.1109/LSSC.2019.2900148},
-  file     = {:C\:/Users/elvim/Downloads/25-02-2019BRUNO OTAVIO RAMOS.pdf:PDF},
-  keywords = {Circuit faults;Random access memory;Maintenance engineering;Resilience;Recycling;Metadata;Low voltage;RISC-V;open-source processor;out-of-order processor;cache resiliency.},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}

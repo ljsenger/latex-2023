@@ -5,10 +5,13 @@
 \providecommand{\abntbstabout}[1]{}
 \abntbstabout{1.45.2.1 }
 
-\bibitem[Haykin 2001]{haykinredes}
-\abntrefinfo{Haykin}{HAYKIN}{2001}
-{HAYKIN, S. \textbf{Redes Neurais: Princ{\'\i}pios e Pr{\'a}tica}. São Paulo:
-  Bookman Editora, 2001.}
+\bibitem[{Chiu} \textit{et al.} 2019]{Chiu2019}
+\abntrefinfo{{Chiu} \textit{et al.}}{{Chiu} \textit{et al.}}{2019}
+{{Chiu}, P.; {Celio}, C.; {Asanović}, K.; {Nikolić}, B.; {Patterson}, D.
+  Cache resiliency techniques for a low-voltage risc-v out-of-order processor
+  in 28 nm cmos.
+\textbf{IEEE Solid-State Circuits Letters}, p.~1--1, 2019.
+ISSN 2573-9603.}
 
 \bibitem[LeCun \textit{et al.} 1990]{LeCun1990}
 \abntrefinfo{LeCun \textit{et al.}}{LECUN \textit{et al.}}{1990}

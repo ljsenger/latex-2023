@@ -1,24 +1,25 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.4.4)  8 AUG 2023 15:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.4.4)  11 AUG 2023 16:36
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
-**./exemplo-14.tex
-(exemplo-14.tex
+**./exemplo-palestra-11-08-2023.tex
+(exemplo-palestra-11-08-2023.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22>
-(C:\Program Files\MiKTeX\tex/latex/base\article.cls
-Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
+(C:\Program Files\MiKTeX\tex/latex/base\report.cls
+Document Class: report 2022/07/02 v1.4n Standard LaTeX document class
 (C:\Program Files\MiKTeX\tex/latex/base\size12.clo
 File: size12.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
-\c@section=\count186
-\c@subsection=\count187
-\c@subsubsection=\count188
-\c@paragraph=\count189
-\c@subparagraph=\count190
-\c@figure=\count191
-\c@table=\count192
+\c@chapter=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
@@ -33,13 +34,13 @@ Package: inputenc 2021/02/14 v1.3d Input encoding file
 )
 (C:\Program Files\MiKTeX\tex/generic/babel\babel.sty
 Package: babel 2023/02/13 3.86 The Babel package
-\babel@savecnt=\count193
+\babel@savecnt=\count194
 \U@D=\dimen141
 \l@unhyphenated=\language79
 
 (C:\Program Files\MiKTeX\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read2
-\bbl@dirlevel=\count194
+\bbl@dirlevel=\count195
 
 *************************************
 * Local config file bblopts.cfg used
@@ -93,9 +94,9 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 (C:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
-\Gm@cnth=\count195
-\Gm@cntv=\count196
-\c@Gm@tempcnt=\count197
+\Gm@cnth=\count196
+\Gm@cntv=\count197
+\c@Gm@tempcnt=\count198
 \Gm@bindingoffset=\dimen144
 \Gm@wd@mp=\dimen145
 \Gm@odd@mp=\dimen146
@@ -125,7 +126,7 @@ Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
 \TX@old@col=\dimen156
 \TX@target=\dimen157
 \TX@delta=\dimen158
-\TX@cols=\count198
+\TX@cols=\count199
 \TX@ftn=\toks21
 )
 (C:\Program Files\MiKTeX\tex/latex/lipsum\lipsum.sty
@@ -135,15 +136,15 @@ Package: expl3 2023-02-22 L3 programming layer (loader)
 
 (C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count199
+\l__color_backend_stack_int=\count266
 \l__pdf_internal_box=\box53
 ))
 Package: l3keys2e 2023-01-16 LaTeX2e option processing using LaTeX3 keys
 )
 Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
-\g__lipsum_par_int=\count266
-\l__lipsum_a_int=\count267
-\l__lipsum_b_int=\count268
+\g__lipsum_par_int=\count267
+\l__lipsum_a_int=\count268
+\l__lipsum_b_int=\count269
 
 (C:\Program Files\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex))
 (C:\Program Files\MiKTeX\tex/latex/blindtext\blindtext.sty
@@ -152,24 +153,24 @@ Package: blindtext 2012/01/06 V2.0 blindtext-Package
 (C:\Program Files\MiKTeX\tex/latex/tools\xspace.sty
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
-\c@blindtext=\count269
-\c@Blindtext=\count270
-\c@blind@countparstart=\count271
-\blind@countxx=\count272
-\blindtext@numBlindtext=\count273
-\blind@countyy=\count274
-\c@blindlist=\count275
-\c@blindlistlevel=\count276
-\c@blindlist@level=\count277
-\blind@listitem=\count278
-\c@blind@listcount=\count279
-\c@blind@levelcount=\count280
-\blind@mathformula=\count281
-\blind@Mathformula=\count282
-\c@blind@randomcount=\count283
-\c@blind@randommax=\count284
-\c@blind@pangramcount=\count285
-\c@blind@pangrammax=\count286
+\c@blindtext=\count270
+\c@Blindtext=\count271
+\c@blind@countparstart=\count272
+\blind@countxx=\count273
+\blindtext@numBlindtext=\count274
+\blind@countyy=\count275
+\c@blindlist=\count276
+\c@blindlistlevel=\count277
+\c@blindlist@level=\count278
+\blind@listitem=\count279
+\c@blind@listcount=\count280
+\c@blind@levelcount=\count281
+\blind@mathformula=\count282
+\blind@Mathformula=\count283
+\c@blind@randomcount=\count284
+\c@blind@randommax=\count285
+\c@blind@pangramcount=\count286
+\c@blind@pangrammax=\count287
 )
 (C:\Program Files\MiKTeX\tex/latex/setspace\setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
@@ -201,11 +202,11 @@ Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 )
 (C:\Program Files\MiKTeX\tex/latex/fancyvrb\fancyvrb.sty
 Package: fancyvrb 2023/01/19 4.5a verbatim text (tvz,hv)
-\FV@CodeLineNo=\count287
+\FV@CodeLineNo=\count288
 \FV@InFile=\read3
 \FV@TabBox=\box54
-\c@FancyVerbLine=\count288
-\FV@StepNumber=\count289
+\c@FancyVerbLine=\count289
+\FV@StepNumber=\count290
 \FV@OutFile=\write3
 )
 (C:\Program Files\MiKTeX\tex/latex/nomencl\nomencl.sty
@@ -219,7 +220,7 @@ Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
 \XKV@toks=\toks22
 \XKV@tempa@toks=\toks23
 )
-\XKV@depth=\count290
+\XKV@depth=\count291
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 (C:\Program Files\MiKTeX\tex/latex/base\ifthen.sty
@@ -278,14 +279,14 @@ Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 (C:\Program Files\MiKTeX\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
-\inf@bad=\count291
+\inf@bad=\count292
 LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count292
-\leftroot@=\count293
+\uproot@=\count293
+\leftroot@=\count294
 LaTeX Info: Redefining \overline on input line 399.
 LaTeX Info: Redefining \colon on input line 410.
-\classnum@=\count294
-\DOTSCASE@=\count295
+\classnum@=\count295
+\DOTSCASE@=\count296
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
@@ -298,20 +299,20 @@ LaTeX Info: Redefining \Bigg on input line 725.
 \big@size=\dimen163
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count296
+\macc@depth=\count297
 LaTeX Info: Redefining \bmod on input line 905.
 LaTeX Info: Redefining \pmod on input line 910.
 LaTeX Info: Redefining \smash on input line 940.
 LaTeX Info: Redefining \relbar on input line 970.
 LaTeX Info: Redefining \Relbar on input line 971.
-\c@MaxMatrixCols=\count297
+\c@MaxMatrixCols=\count298
 \dotsspace@=\muskip16
-\c@parentequation=\count298
-\dspbrk@lvl=\count299
+\c@parentequation=\count299
+\dspbrk@lvl=\count300
 \tag@help=\toks25
-\row@=\count300
-\column@=\count301
-\maxfields@=\count302
+\row@=\count301
+\column@=\count302
+\maxfields@=\count303
 \andhelp@=\toks26
 \eqnshift@=\dimen164
 \alignsep@=\dimen165
@@ -327,23 +328,23 @@ LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
 )
 (C:\Program Files\MiKTeX\tex/latex/listings\listings.sty
-\lst@mode=\count303
+\lst@mode=\count304
 \lst@gtempboxa=\box58
 \lst@token=\toks29
-\lst@length=\count304
+\lst@length=\count305
 \lst@currlwidth=\dimen170
-\lst@column=\count305
-\lst@pos=\count306
+\lst@column=\count306
+\lst@pos=\count307
 \lst@lostspace=\dimen171
 \lst@width=\dimen172
-\lst@newlines=\count307
-\lst@lineno=\count308
+\lst@newlines=\count308
+\lst@lineno=\count309
 \lst@maxwidth=\dimen173
 
 (C:\Program Files\MiKTeX\tex/latex/listings\lstmisc.sty
 File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
-\c@lstnumber=\count309
-\lst@skipnumbers=\count310
+\c@lstnumber=\count310
+\lst@skipnumbers=\count311
 \lst@framebox=\box59
 )
 (C:\Program Files\MiKTeX\tex/latex/listings\listings.cfg
@@ -359,10 +360,10 @@ Package: subfigure 2002/07/30 v2.1.4 subfigure package
 \subfigbottomskip=\skip68
 \subfigcapmargin=\dimen175
 \subfiglabelskip=\skip69
-\c@subfigure=\count311
-\c@lofdepth=\count312
-\c@subtable=\count313
-\c@lotdepth=\count314
+\c@subfigure=\count312
+\c@lofdepth=\count313
+\c@subtable=\count314
+\c@lotdepth=\count315
 
 ****************************************
 * Local config file subfigure.cfg used *
@@ -434,11 +435,11 @@ Package: microtype 2023/03/13 v3.1a Micro-typographical refinements (RS)
 
 (C:\Program Files\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count315
+\etb@tempcnta=\count316
 )
 \MT@toks=\toks30
 \MT@tempbox=\box60
-\MT@count=\count316
+\MT@count=\count317
 LaTeX Info: Redefining \noprotrusionifhmode on input line 1059.
 LaTeX Info: Redefining \leftprotrusion on input line 1060.
 \MT@prot@toks=\toks31
@@ -446,7 +447,7 @@ LaTeX Info: Redefining \rightprotrusion on input line 1078.
 LaTeX Info: Redefining \textls on input line 1368.
 \MT@outer@kern=\dimen176
 LaTeX Info: Redefining \textmicrotypecontext on input line 1988.
-\MT@listname@count=\count317
+\MT@listname@count=\count318
 
 (C:\Program Files\MiKTeX\tex/latex/microtype\microtype-pdftex.def
 File: microtype-pdftex.def 2023/03/13 v3.1a Definitions specific to pdftex (RS)
@@ -466,15 +467,15 @@ Package: makeidx 2021/10/04 v1.0m Standard LaTeX package
 Package: abntcite 2003/10/13 v1.26 Chamadas de referencias no texto (NBR10520)
 (C:\Program Files\MiKTeX\tex/latex/tools\calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count318
-\calc@Bcount=\count319
+\calc@Acount=\count319
+\calc@Bcount=\count320
 \calc@Adimen=\dimen177
 \calc@Bdimen=\dimen178
 \calc@Askip=\skip73
 \calc@Bskip=\skip74
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count320
+\calc@Ccount=\count321
 \calc@Cskip=\skip75
 ) (abntex-abrev.sty
 (cvs-id.def)
@@ -492,8 +493,8 @@ File: nbr10520-2002.def 2003/10/13 v1.2 Definicoes para abntcite (NBR10520:2002
 )
 \minimumbiblabelwidth=\skip76
 \ABCIauxlen=\skip77
-\c@ABCIaux=\count321
-\c@ABCImax=\count322
+\c@ABCIaux=\count322
+\c@ABCImax=\count323
 
 (C:\Program Files\MiKTeX\tex/latex/relsize\relsize.sty
 Package: relsize 2013/03/29 ver 4.1
@@ -503,13 +504,24 @@ LaTeX Info: Redefining \newblock on input line 562.
 LaTeX Info: Redefining \cite on input line 589.
 \ABCItoken=\toks32
 ))
+(C:\Program Files\MiKTeX\tex/latex/fncychap\fncychap.sty
+Package: fncychap 2007/07/30 v1.34 LaTeX package (Revised chapters)
+\RW=\skip79
+\mylen=\skip80
+\myhi=\skip81
+\px=\skip82
+\py=\skip83
+\pyy=\skip84
+\pxx=\skip85
+)
 LaTeX Font Info:    Trying to load font information for T1+ptm on input line 6.
 
 
 (C:\Program Files\MiKTeX\tex/latex/psnfss\t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
-) (exemplo-14.aux)
-\openout1 = `exemplo-14.aux'.
+)
+(exemplo-palestra-11-08-2023.aux)
+\openout1 = `exemplo-palestra-11-08-2023.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
@@ -562,26 +574,56 @@ LaTeX Font Info:    ... okay on input line 6.
 
 (C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count323
+\scratchcounter=\count324
 \scratchdimen=\dimen179
 \scratchbox=\box61
-\nofMPsegments=\count324
-\nofMParguments=\count325
+\nofMPsegments=\count325
+\nofMParguments=\count326
 \everyMPshowfont=\toks33
-\MPscratchCnt=\count326
+\MPscratchCnt=\count327
 \MPscratchDim=\dimen180
-\MPnumerator=\count327
-\makeMPintoPDFobject=\count328
+\MPnumerator=\count328
+\makeMPintoPDFobject=\count329
 \everyMPtoPDFconversion=\toks34
 ) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+
+(C:\Program Files\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(C:\Program Files\MiKTeX\tex/latex/grfext\grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+
+(C:\Program Files\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+))
+(C:\Program Files\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+
+(C:\Program Files\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(C:\Program Files\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+))
+(C:\Program Files\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
 
 (C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-\c@lstlisting=\count329
+\c@lstlisting=\count330
 LaTeX Info: Redefining \microtypecontext on input line 6.
 Package microtype Info: Applying patch `item' on input line 6.
 Package microtype Info: Applying patch `toc' on input line 6.
@@ -642,51 +684,88 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 7.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 7.
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 1
-1.
-
-(C:\Program Files\MiKTeX\tex/latex/psnfss\ts1ptm.fd
-File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-)
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 17.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 17.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 17.
-<neuronio.jpg, id=1, 602.25pt x 268.75406pt>
-File: neuronio.jpg Graphic file (type jpg)
-<use neuronio.jpg>
-Package pdftex.def Info: neuronio.jpg  used on input line 23.
-(pdftex.def)             Requested size: 180.67639pt x 80.62683pt.
  [1
 Non-PDF special ignored!
 <special> papersize=597.50787pt,845.04684pt
 
-{C:/Users/elvim/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./neuronio.j
-pg>] (C:\Program Files\MiKTeX\tex/latex/listings\lstlang1.sty
-File: lstlang1.sty 2023/02/27 1.9 listings language file
-) (exemplo.py)
-(exemplo-14.bbl) [2
+{C:/Users/elvim/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+(exemplo-palestra-11-08-2023.toc
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 3.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 3.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 3.
+)
+\tf@toc=\write4
+\openout4 = `exemplo-palestra-11-08-2023.toc'.
 
-] (exemplo-14.aux) ) 
+ [1
+
+] (exemplo-palestra-11-08-2023.lof)
+\tf@lof=\write5
+\openout5 = `exemplo-palestra-11-08-2023.lof'.
+
+
+[2
+
+] (exemplo-palestra-11-08-2023.lot)
+\tf@lot=\write6
+\openout6 = `exemplo-palestra-11-08-2023.lot'.
+
+ (introducao1.tex [3
+
+]
+Cap\'{\i }tulo 1.
+[4
+
+]
+
+LaTeX Warning: Reference `sec:redes' on page 5 undefined on input line 15.
+
+<neuronio.jpg, id=19, 602.25pt x 268.75406pt>
+File: neuronio.jpg Graphic file (type jpg)
+<use neuronio.jpg>
+Package pdftex.def Info: neuronio.jpg  used on input line 24.
+(pdftex.def)             Requested size: 240.89572pt x 107.49971pt.
+) (revisao1.tex [5 <./neuronio.jpg>]
+Cap\'{\i }tulo 2.
+(C:\Program Files\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2023/02/27 1.9 listings language file
+)
+(C:\Program Files\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
+)
+(C:\Program Files\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2023/02/27 1.9 listings language file
+) (exemplo.py))
+(exemplo-palestra-11-08-2023.bbl [6
+
+]) [7
+
+] (exemplo-palestra-11-08-2023.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
 Here is how much of TeX's memory you used:
- 12135 strings out of 476334
- 197254 string characters out of 5797787
- 1859382 words of memory out of 5000000
- 32179 multiletter control sequences out of 15000+600000
- 565641 words of font info for 172 fonts, out of 8000000 for 9000
+ 12932 strings out of 476334
+ 211802 string characters out of 5797787
+ 1864382 words of memory out of 5000000
+ 32861 multiletter control sequences out of 15000+600000
+ 576763 words of font info for 220 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 115i,7n,109p,1009b,1337s stack positions out of 10000i,1000n,20000p,200000b,200000s
-{C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Pr
-ogram Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/M
-iKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/
-type1/urw/symbol/usyr.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmb8a
-.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Program File
-s/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on exemplo-14.pdf (2 pages, 104941 bytes).
+ 115i,8n,109p,1026b,1312s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/
+public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/symbol/u
+syr.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/symbol/usyr.pfb><C:/Program Fi
+les/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX/fonts/type
+1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmri8a.p
+fb>
+Output written on exemplo-palestra-11-08-2023.pdf (8 pages, 119700 bytes).
 PDF statistics:
- 41 PDF objects out of 1000 (max. 8388607)
+ 66 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 64518 words of extra memory for PDF output out of 74296 (max. 10000000)
+ 70662 words of extra memory for PDF output out of 74296 (max. 10000000)
 

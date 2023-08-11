@@ -1,6 +1,6 @@
 This is BibTeX, Version 0.99d
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
-The top-level auxiliary file: exemplo-12.aux
+The top-level auxiliary file: exemplo-01.aux
 Reallocating 'name_of_file' (item size: 1) to 13 items.
 Reallocating 'name_of_file' (item size: 1) to 5 items.
 Reallocating 'name_of_file' (item size: 1) to 9 items.
@@ -15,6 +15,7 @@ Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Database file #1: abnt-options.bib
 Database file #2: base.bib
+Warning--I didn't find a database entry for "Staff2018"
 Reallocating 'wiz_functions' (item size: 4) to 9000 items.
 Reallocating 'singl_function' (item size: 4) to 100 items.
 Reallocating 'glb_str_end' (item size: 4) to 20 items.
@@ -25,44 +26,45 @@ Reallocating 'global_strs' (item size: 1) to 4000000 items.
 | Em caso de dúvidas ou problemas com este estilo procure |
 | http://abntex.codigolivre.org.br                        |
 +---------------------------------------------------------+
-You've used 4 entries,
+You've used 5 entries,
             6480 wiz_defined-function locations,
-            1166 strings with 9274 characters,
-and the built_in function-call counts, 2053 in all, are:
-= -- 264
-> -- 16
-< -- 1
-+ -- 54
-- -- 6
-* -- 91
-:= -- 307
-add.period$ -- 3
-call.type$ -- 5
-change.case$ -- 15
-chr.to.int$ -- 6
-cite$ -- 1
-duplicate$ -- 48
-empty$ -- 203
-format.name$ -- 23
-if$ -- 518
+            1181 strings with 9760 characters,
+and the built_in function-call counts, 3306 in all, are:
+= -- 369
+> -- 83
+< -- 2
++ -- 82
+- -- 25
+* -- 202
+:= -- 462
+add.period$ -- 12
+call.type$ -- 6
+change.case$ -- 36
+chr.to.int$ -- 10
+cite$ -- 2
+duplicate$ -- 98
+empty$ -- 278
+format.name$ -- 122
+if$ -- 825
 int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 50
-newline$ -- 12
-num.names$ -- 5
-pop$ -- 60
+missing$ -- 72
+newline$ -- 18
+num.names$ -- 10
+pop$ -- 86
 preamble$ -- 1
-purify$ -- 12
+purify$ -- 18
 quote$ -- 0
-skip$ -- 226
+skip$ -- 281
 stack$ -- 1
-substring$ -- 77
-swap$ -- 15
+substring$ -- 101
+swap$ -- 44
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 0
+type$ -- 1
 warning$ -- 0
-while$ -- 8
+while$ -- 14
 width$ -- 0
-write$ -- 22
+write$ -- 42
+(There was 1 warning)

@@ -1,0 +1,24 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{1.45.2.1 }
+
+\bibitem[Hennessy e Patterson 2012]{Hennessy2012}
+\abntrefinfo{Hennessy e Patterson}{HENNESSY; PATTERSON}{2012}
+{HENNESSY, J.~L.; PATTERSON, D.~A. \textbf{Computer Architecture: A
+  Quantitative Approach}. 5. ed. Amsterdam: Morgan Kaufmann, 2012.
+ISBN 978-0-12-383872-8.}
+
+\bibitem[Parham \textit{et al.} 2010]{Parham2010}
+\abntrefinfo{Parham \textit{et al.}}{PARHAM \textit{et al.}}{2010}
+{PARHAM, J.~D.; MCDONALD, J.~T.; GRIMAILA, M.~R.; KIM, Y.~C. A java based
+  component identification tool for measuring the strength of circuit
+  protections. In:  \textbf{Proceedings of the Sixth Annual Workshop on Cyber
+  Security and Information Intelligence Research}. New York, NY, USA:
+  Association for Computing Machinery, 2010.  (CSIIRW '10).
+ISBN 9781450300179. Dispon{\'\i}vel em:
+  $<$https://doi.org/10.1145/1852666.1852695$>$.}
+
+\end{thebibliography}

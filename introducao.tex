@@ -1,15 +1,6 @@
-\documentclass[a4paper, 12pt, twocolumn]{article}
-\usepackage[brazil]{babel}
-\usepackage[utf8]{inputenc}
-\input{pacotes}
-
-\author{Luciano Senger}
-\title{Sistema \LaTeX}
-\begin{document}
-	\maketitle
-\section{Introdução}
+\chapter{Introdução}
 Olá   Mundo!!.
-\subsection{Objetivos}
+\section{Objetivos}
 \begin{enumerate}
 	\item Investigar
 	\item Obter
@@ -30,9 +21,9 @@ As notas são apresentadas por meio da Tabela~\ref{tab:tabela}.
 O caminho de dados para o processador MIPS contém dois elementos principais~\cite{Hennessy2012}.
 Quero citar também~\cite{Staff2018} e  ~\cite{Parham2010}.
 \begin{equation}
- y_{0} = \sum_{i=0}^{N}{x_{i} \times  w_{i}} \times \frac{z}{\alpha}
- \label{eq:ativacao}
- \end{equation}
+	y_{0} = \sum_{i=0}^{N}{x_{i} \times  w_{i}} \times \frac{z}{\alpha}
+	\label{eq:ativacao}
+\end{equation}
 
 \begin{figure}[htb]
 	\centering
@@ -48,7 +39,7 @@ Quero citar também~\cite{Staff2018} e  ~\cite{Parham2010}.
 	\begin{tabular}{ccr}
 		\hline
 		\textbf{RA} & \textbf{Nome} & 
-		 \textbf{Nota} \\
+		\textbf{Nota} \\
 		\hline
 		2323 & Luciano & 8,0 \\
 		3232 & Jose & 7,0 \\
@@ -56,8 +47,19 @@ Quero citar também~\cite{Staff2018} e  ~\cite{Parham2010}.
 	\end{tabular}
 	\label{tab:tabela}
 \end{table}
+\lstset{language=C}
+\begin{lstlisting}[frame=single, numbers=left]
+	int a = 5;
+	void main(){
+		if( a > 5 ){
+			printf( "Hello World\n");
+		}
+	}
+	
+	
+	
+\end{lstlisting}
+\lstinputlisting[frame=single, numbers=left]{exemplo.py}
 
 \lipsum[3-8]
 %\bibliographystyle{plain}
-\bibliography{base}
-\end{document}
